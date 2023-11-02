@@ -1,10 +1,5 @@
-body{
-    border: #828282 solid 2px;
-    margin: 50px;
-}
-
 .page-header {
-    background-color: #C25100;
+    background-color: #3400c2;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -20,7 +15,7 @@ body{
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    /* font-family: 'Lobster', cursive; */
 }
 
 .date {
@@ -47,9 +42,5 @@ h1, h2, h3, h4 {
 }
 
 .post h2 a, .post h2 a:visited {
-    color: #e20e0e;
-}
-
-.post p {
-    color: #C25100;
+    color: #000000;
 }
